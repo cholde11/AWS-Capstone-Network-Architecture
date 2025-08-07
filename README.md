@@ -1,3 +1,3 @@
 # AWS-Capstone-Network-Architecture
 
-This repository contains the architecture diagram and supporting resources for my AWS internship capstone project focused on multi-region VPC design, flow log analysis, and cloud infrastructure scalability.
+This repository contains the architecture diagram and supporting materials from my 2025 summer AWS internship capstone project, which focused on multi-region VPC design, flow log analysis, and scalable cloud infrastructure.
